@@ -1,0 +1,3 @@
+dijkstra or floyd-warshall
+prim or kruskals
+topological or khan's algorithm
